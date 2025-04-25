@@ -60,15 +60,15 @@ cd seu-repo
 ## ✅ Casos de Teste Implementados
 **🔹 StoreTest**
 
-Cadastro de pedido com sucesso (POST /store/order)
+1.Cadastro de pedido com sucesso (POST /store/order)
 
 **🔹 PetTest**
 
-Buscar pet inexistente (GET /pet/{petId})
+2.Buscar pet inexistente (GET /pet/{petId})
 
-Atualizar pet com sucesso (PUT /pet)
+3.Atualizar pet com sucesso (PUT /pet)
 
-Buscar pets por status "pending" (GET /pet/findByStatus)
+4.Buscar pets por status "pending" (GET /pet/findByStatus)
 
 
 ### 👩‍💻 Autor(a)
