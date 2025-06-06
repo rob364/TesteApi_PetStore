@@ -73,8 +73,7 @@ cd seu-repo
 
 ### 👩‍💻 Autor(a)
 
-- **Nome:** Roberta Lacerda Silva de Jesus
-- **Contato:** (31)975648826
+- **Nome:** Roberta Lacerda 
 - **LinkedIn:** [Perfil LinkedIn](https://www.linkedin.com/in/roberta-lacerda/)
 
 
