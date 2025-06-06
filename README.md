@@ -1,10 +1,10 @@
-# 🧪 Testes Automatizados - API PetStore (Swagger)
+#  Testes Automatizados - API PetStore (Swagger)
 
 Este projeto é uma suíte de testes automatizados utilizando **Java**, **RestAssured** e **JUnit 5** para validar endpoints da API pública da [Swagger PetStore](https://petstore.swagger.io/).
 
 ---
 
-## 🔧 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - Java 17+
 - Gradle 8+
@@ -23,7 +23,7 @@ Este projeto é uma suíte de testes automatizados utilizando **Java**, **RestAs
 
 ---
 
-## ✅ Pré-requisitos
+##  Pré-requisitos
 
 - Java 17 ou superior
 - Gradle 8.10+
@@ -31,7 +31,7 @@ Este projeto é uma suíte de testes automatizados utilizando **Java**, **RestAs
 
 ---
 
-## 🚀 Como rodar o projeto pela primeira vez
+##  Como rodar o projeto pela primeira vez
 
 ### 1. Clone o repositório:
 
@@ -44,7 +44,7 @@ cd seu-repo
 ```
 ./gradlew build --refresh-dependencies
 ```
-💡 Em Windows, use gradlew.bat no lugar de ./gradlew
+ Em Windows, use gradlew.bat no lugar de ./gradlew
 
 ### 3. Execute todos os testes:
 ```
@@ -57,7 +57,7 @@ cd seu-repo
 ./gradlew test --tests "petstore.test.PetTest"
 ```
 
-## ✅ Casos de Teste Implementados
+##  Casos de Teste Implementados
 **🔹 StoreTest**
 
 1.Cadastro de pedido com sucesso (POST /store/order)
